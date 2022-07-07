@@ -15,8 +15,9 @@ const enviroment = async() =>{
     }
 
     console.log('The car you are looking for is: .')
-    let id =  //Here is the id for the car we are looking
-    let deleteById =  //Here is the id for the car to be deleted
+    let id = 2 //Here is the id for the car we are looking
+        
+    let deleteById = 10 //Here is the id for the car to be deleted
 
     await carService.addCar(car)
     await carService.getById(id)
