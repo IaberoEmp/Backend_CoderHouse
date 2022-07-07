@@ -62,7 +62,7 @@ class CarsManager{
             console.log("deletByID: Car successfully deleted")
             return nuevoArray
         }catch(error){
-            console.log('Cannot delete car: ' error)
+            console.log('Cannot delete car: ' +error)
         }
     }
     deleteAll = async() => {
