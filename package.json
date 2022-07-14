@@ -1,0 +1,23 @@
+{
+  "name": "repositorio_visual",
+  "version": "1.0.0",
+  "description": "Este proyecto es el repositorio de Ismael Abero para todo el curso de Programacion Backend",
+  "main": "apuntesClase.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IaberoEmp/Backend_CoderHouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IaberoEmp/Backend_CoderHouse/issues"
+  },
+  "homepage": "https://github.com/IaberoEmp/Backend_CoderHouse#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
